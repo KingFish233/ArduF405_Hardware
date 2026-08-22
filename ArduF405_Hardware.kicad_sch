@@ -18775,7 +18775,7 @@
 			)
 		)
 		(property "Value" "0.1uF(0402)"
-			(at 558.546 289.814 90)
+			(at 558.546 288.544 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28153,7 +28153,7 @@
 				)
 			)
 		)
-		(property "Value" "LED_blue"
+		(property "Value" "LED_green"
 			(at 281.178 164.084 0)
 			(show_name no)
 			(do_not_autoplace no)
